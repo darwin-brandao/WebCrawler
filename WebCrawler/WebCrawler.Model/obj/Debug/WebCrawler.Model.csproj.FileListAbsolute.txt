@@ -1,0 +1,6 @@
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.Model\bin\Debug\WebCrawler.Model.dll
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.Model\bin\Debug\WebCrawler.Model.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.Model\obj\Debug\WebCrawler.Model.csprojAssemblyReference.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.Model\obj\Debug\WebCrawler.Model.csproj.CoreCompileInputs.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.Model\obj\Debug\WebCrawler.Model.dll
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.Model\obj\Debug\WebCrawler.Model.pdb

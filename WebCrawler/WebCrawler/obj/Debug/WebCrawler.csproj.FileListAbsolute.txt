@@ -1,0 +1,15 @@
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.INFRA.dll
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.INFRA.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Form1.resources
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Properties.Resources.resources
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.GenerateResource.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.Model.dll
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.Model.pdb

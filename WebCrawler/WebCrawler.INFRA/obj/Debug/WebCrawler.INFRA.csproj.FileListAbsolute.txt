@@ -1,0 +1,9 @@
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\bin\Debug\WebCrawler.INFRA.dll
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\bin\Debug\WebCrawler.INFRA.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\obj\Debug\WebCrawler.INFRA.csprojAssemblyReference.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\obj\Debug\WebCrawler.INFRA.csproj.CoreCompileInputs.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\obj\Debug\WebCrawler.INFRA.dll
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\obj\Debug\WebCrawler.INFRA.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\bin\Debug\WebCrawler.Model.dll
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\bin\Debug\WebCrawler.Model.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\WebCrawler\WebCrawler.INFRA\obj\Debug\WebCrawler.INFRA.csproj.CopyComplete
